@@ -1,1 +1,1 @@
-echo "Master Branch"
+echo "BranchB Branch"
